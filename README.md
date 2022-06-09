@@ -1,2 +1,2 @@
 # Web sitesi kodları 
-dc : Byke#2799
+Discord : Byke#2799
