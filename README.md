@@ -1,2 +1,2 @@
 # Web sitesi kodları 
-Discord : Byke#2799
+Discord : huwesw
